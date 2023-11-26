@@ -9,8 +9,11 @@
 - Between employment i worked as a freelance Web developer. List of projects:
 
   https://psihoanaliza.rs/
+  
   https://lawmilic.com/
+  
   https://vetmedika.rs/
+  
   https://salezy.github.io/vacation-client/#/
   
 <!---

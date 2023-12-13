@@ -8,13 +8,13 @@
 
 - Between employment i worked as a freelance Web developer. List of projects:
 
-  https://psihoanaliza.rs/
+  https://psihoanaliza.rs/ (2018) - Starting out, Stack: HTML, CSS, JS
   
-  https://lawmilic.com/
+  https://lawmilic.com/ (2022) - Stack: MERN, Github and Heroku hosting
   
-  https://vetmedika.rs/
+  https://vetmedika.rs/ (2023) - Stack: MERN, Github and Heroku hosting
   
-  https://thepdfgenerator.com/
+  https://thepdfgenerator.com/ (2023) - Stack: React, NestJS, MongoDB, Github and Heroku hosting
   
 <!---
 salEZY/salEZY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

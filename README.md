@@ -6,6 +6,8 @@
 
 - My next employment was with Rivers (Feb 2023 - Sep 2023) as a Backend Developer. Tech stack used:  Express.js, NestJS, PostgreSQL, Docker, AWS etc.
 
+- Currently i am working as a Clojure Developer in Citrus Systems (started in Jan 2024). Tech Stack: Clojure, React, PostgreSQL, AWS etc.
+
 - Between employment i worked as a freelance Web developer. List of projects:
 
   https://psihoanaliza.rs/ (2018) - Starting out, Stack: HTML, CSS, JS
